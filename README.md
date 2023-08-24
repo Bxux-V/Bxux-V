@@ -21,9 +21,6 @@ I know nothing bruh
  HTML, CSS, python ± ...
 
 
-## 🛠 Skills
- HTML, CSS, python ± ...
-
 
 ## Appendix
 
